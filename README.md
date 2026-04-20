@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Software Engineer with over 2.5 years of experience building full-stack applications using Node.js/Express, React/Next.js,<br>and TypeScript. Skilled in PostgreSQL (Prisma), MongoDB, MySQL, and Redis, with hands-on experience in real-time apps<br>(WebRTC, Socket.io) and Web3 smart contract integration.
+<br>Software Engineer with over 3 years of experience building full-stack applications using Node.js/Express, React/Next.js,<br>and TypeScript. Skilled in PostgreSQL (Prisma), MongoDB, MySQL, and Redis, with hands-on experience in real-time apps<br>(WebRTC, Socket.io) and Web3 smart contract integration.
 
 
 ## 🌐 Socials:
