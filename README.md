@@ -111,8 +111,8 @@ Software Engineer with **3+ years** of experience building scalable full-stack a
 
 # 🤝 Connect With Me
 
-📧 **leaderhammad37@gmail.com**  
-💼 **LinkedIn:** https://linkedin.com/in/raja-hammad-ahsan
+📧 **Email:** leaderhammad37@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/raja-hammad-ahsan  
 🧑‍💻 **Portfolio:** https://hammadahsan-portfolio.vercel.app/
 ---
 
