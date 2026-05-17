@@ -17,12 +17,12 @@
 
 # 💫 About Me
 
-Software Engineer with **3+ years** of experience building scalable full-stack applications using **Node.js, React, Next.js, TypeScript**, and modern backend architecture.
+Software Engineer with **3+ years** of experience building scalable full-stack applications using **Node.js, React, Next.js, TypeScript**.
 
-- 🔭 Currently building scalable SaaS products
+- 🔭 Building scalable SaaS & real-time platforms
 - 🌱 Learning System Design & Distributed Systems
 - 💬 Ask me about **Node.js, React, PostgreSQL, MongoDB**
-- ⚡ Passionate about solving real-world problems through code
+- ⚡ Passionate about solving real-world problems
 
 ---
 
@@ -32,66 +32,73 @@ Software Engineer with **3+ years** of experience building scalable full-stack a
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass)
 
 ---
 
-### Backend & Data
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000?logo=express)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase)
 ![REST API](https://img.shields.io/badge/REST_API-orange)
+![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424)
 
 ---
 
-### Real-Time & Streaming
+### Database & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
+
+---
+
+### Real-Time & Integrations
 ![Socket.io](https://img.shields.io/badge/Socket.io-000?logo=socket.io)
-![WebSocket](https://img.shields.io/badge/WebSocket-000)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333)
+![WebSocket](https://img.shields.io/badge/WebSocket-000)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe)
+![Google Drive API](https://img.shields.io/badge/Google_Drive_API-4285F4)
+![Google Docs API](https://img.shields.io/badge/Google_Docs_API-4285F4)
 
 ---
 
-### Blockchain & Desktop
+### AI & Web3
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai)
+![LLM](https://img.shields.io/badge/LLM-000)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity)
-![Thirdweb](https://img.shields.io/badge/Thirdweb-000)
-![Electron.js](https://img.shields.io/badge/Electron.js-47848F?logo=electron)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-orange)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?logo=googlechrome)
 
 ---
 
-### Infrastructure & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai)
-
----
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
-![Urdu](https://img.shields.io/badge/Urdu-Native-green)
-![English](https://img.shields.io/badge/English-Fluent-blue)
+![Render](https://img.shields.io/badge/Render-46E3B7)
 
 ---
 
 # 🏗 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **AI Neorez** | AI-powered resume & cover letter generation platform with Chrome extension | React, Node.js, OpenAI |
-| **Tutoring Platform** | Role-based live tutoring platform with WebRTC video, AI whiteboard, and Drive integration | React, Node.js, WebRTC |
-| **Mister AI** | AI platform for resume generation, blog writing, image processing, and quizzes | Next.js, Node.js, OpenAI |
-| **Cool Market** | AI-powered eCommerce with smart search and recommendations | Next.js, Redis, Stripe |
-| **Business That Matters** | SaaS startup platform with AI business plans and Kanban board | MERN, OpenAI |
-| **Extended Trust** | Insurance lifecycle management platform | React, Node.js |
-| **Decentralized Voting System** | Blockchain-based secure voting system | Solidity, React, Node |
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **AI Neorez** | AI-powered resume & cover letter generator with Chrome extension | React, Node.js, OpenAI | [🔗 Repo](YOUR_GITHUB_LINK) |
+| **Tutoring Platform** | Live tutoring platform with WebRTC, AI whiteboard & role-based access | React, Node.js, WebRTC | [🔗 Repo](YOUR_GITHUB_LINK) |
+| **Mister AI** | AI platform for resume generation, blogs, quizzes & PDF tools | Next.js, Node.js, OpenAI | [🔗 Repo](YOUR_GITHUB_LINK) |
+| **Cool Market** | AI-powered eCommerce with recommendations and Stripe | Next.js, Redis, Stripe | [🔗 Repo](YOUR_GITHUB_LINK) |
+| **Business That Matters** | SaaS platform with AI business plans + Kanban board | MERN, OpenAI | [🔗 Repo](YOUR_GITHUB_LINK) |
+| **Extended Trust** | Insurance lifecycle management system | React, Node.js | [🔗 Repo](YOUR_GITHUB_LINK) |
+| **Decentralized Voting System** | Blockchain-based secure voting platform | Solidity, React | [🔗 Repo](YOUR_GITHUB_LINK) |
 
 ---
 
