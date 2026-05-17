@@ -98,7 +98,7 @@ Software Engineer with **3+ years** of experience building scalable full-stack a
 | **[Cool Market](https://cool-market.vercel.app/)** | AI-powered eCommerce with recommendations and Stripe | Next.js, Redis, Stripe |
 | **[Business That Matters](https://play-book.vercel.app/)** | SaaS platform with AI business plans + Kanban board | MERN, OpenAI |
 | **[Extended Trust](https://www.extendedtrust.ca/)** | Insurance lifecycle management system | React, Node.js |
-| **[Decentralized Voting System]** | Blockchain-based secure voting platform | Solidity, React |
+| **Decentralized Voting System** | Blockchain-based secure voting platform | Solidity, React |
 
 ---
 
@@ -113,7 +113,7 @@ Software Engineer with **3+ years** of experience building scalable full-stack a
 
 📧 **leaderhammad37@gmail.com**  
 💼 **LinkedIn:** https://linkedin.com/in/raja-hammad-ahsan
-
+🧑‍💻 **Portfolio:** https://hammadahsan-portfolio.vercel.app/
 ---
 
 ⭐ *"Code. Learn. Build. Repeat."*
