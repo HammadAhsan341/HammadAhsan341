@@ -90,15 +90,15 @@ Software Engineer with **3+ years** of experience building scalable full-stack a
 
 # 🏗 Featured Projects
 
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **AI Neorez** | AI-powered resume & cover letter generator with Chrome extension | React, Node.js, OpenAI | [🔗 Repo](YOUR_GITHUB_LINK) |
-| **Tutoring Platform** | Live tutoring platform with WebRTC, AI whiteboard & role-based access | React, Node.js, WebRTC | [🔗 Repo](YOUR_GITHUB_LINK) |
-| **Mister AI** | AI platform for resume generation, blogs, quizzes & PDF tools | Next.js, Node.js, OpenAI | [🔗 Repo](YOUR_GITHUB_LINK) |
-| **Cool Market** | AI-powered eCommerce with recommendations and Stripe | Next.js, Redis, Stripe | [🔗 Repo](YOUR_GITHUB_LINK) |
-| **Business That Matters** | SaaS platform with AI business plans + Kanban board | MERN, OpenAI | [🔗 Repo](YOUR_GITHUB_LINK) |
-| **Extended Trust** | Insurance lifecycle management system | React, Node.js | [🔗 Repo](YOUR_GITHUB_LINK) |
-| **Decentralized Voting System** | Blockchain-based secure voting platform | Solidity, React | [🔗 Repo](YOUR_GITHUB_LINK) |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[AI Neorez](https://neorez.ai/)** | AI-powered resume & cover letter generator with Chrome extension | React, Node.js, OpenAI |
+| **[Tutoring Platform](https://enlightenmenthub.com/)** | Live tutoring platform with WebRTC, AI whiteboard & role-based access | React, Node.js, WebRTC |
+| **[Mister AI](https://www.misterai.io/)** | AI platform for resume generation, blogs, quizzes & PDF tools | Next.js, Node.js, OpenAI |
+| **[Cool Market](https://cool-market.vercel.app/)** | AI-powered eCommerce with recommendations and Stripe | Next.js, Redis, Stripe |
+| **[Business That Matters](https://play-book.vercel.app/)** | SaaS platform with AI business plans + Kanban board | MERN, OpenAI |
+| **[Extended Trust](https://www.extendedtrust.ca/)** | Insurance lifecycle management system | React, Node.js |
+| **[Decentralized Voting System]** | Blockchain-based secure voting platform | Solidity, React |
 
 ---
 
