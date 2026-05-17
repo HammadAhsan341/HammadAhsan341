@@ -17,141 +17,81 @@
 
 # 💫 About Me
 
-🚀 Full Stack Software Engineer with **3+ years of experience** building scalable, production-grade web applications.
+Software Engineer with **3+ years** of experience building scalable full-stack applications using **Node.js, React, Next.js, TypeScript**, and modern backend architecture.
 
-💻 Specialized in:
-- Scalable Backend Development
-- Modern Frontend Architecture
-- Real-Time Systems
-- AI/LLM Integrations
-- Web3 & Smart Contracts
-- Distributed Systems
-
-🎯 Current Focus:
-- Microservices
-- System Design
-- High Performance APIs
-- Cloud & DevOps
+- 🔭 Currently building scalable SaaS products
+- 🌱 Learning System Design & Distributed Systems
+- 💬 Ask me about **Node.js, React, PostgreSQL, MongoDB**
+- ⚡ Passionate about solving real-world problems through code
 
 ---
 
-# 🛠 Tech Stack
+# 🔧 Core Competencies
 
-## Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+### Frontend Architecture
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss)
 
 ---
 
-## Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge)
+### Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000?logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase)
+![REST API](https://img.shields.io/badge/REST_API-orange)
 
 ---
 
-## Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+### Real-Time & Streaming
+![Socket.io](https://img.shields.io/badge/Socket.io-000?logo=socket.io)
+![WebSocket](https://img.shields.io/badge/WebSocket-000)
+![WebRTC](https://img.shields.io/badge/WebRTC-333)
 
 ---
 
-## Real Time / APIs
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
-![Google Drive API](https://img.shields.io/badge/Google_Drive_API-4285F4?style=for-the-badge&logo=googledrive)
-![Google Docs API](https://img.shields.io/badge/Google_Docs_API-4285F4?style=for-the-badge&logo=google)
+### Blockchain & Desktop
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity)
+![Thirdweb](https://img.shields.io/badge/Thirdweb-000)
+![Electron.js](https://img.shields.io/badge/Electron.js-47848F?logo=electron)
 
 ---
 
-## AI / Web3
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge)
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome)
+### Infrastructure & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai)
 
 ---
 
-## DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
+![Urdu](https://img.shields.io/badge/Urdu-Native-green)
+![English](https://img.shields.io/badge/English-Fluent-blue)
 
 ---
 
-# 🚀 Featured Projects
+# 🏗 Featured Projects
 
-### AI Neorez
-AI-powered resume builder + cover letter generator + Chrome extension using OpenAI.
-
----
-
-### Tutoring Platform
-Real-time learning platform with:
-- WebRTC live classes
-- AI whiteboard
-- AI grading
-- Google Drive integration
-
----
-
-### Mister AI
-AI SaaS platform featuring:
-- Resume generation
-- Blog writing
-- PDF simplification
-- Image processing
-- AI quizzes
-
----
-
-### Cool Market
-AI-powered eCommerce platform:
-- Smart product recommendations
-- Natural language search
-- Stripe payments
-- Redis caching
-
----
-
-### Business That Matters
-Startup SaaS platform:
-- AI business plan generator
-- Kanban board
-- Google Docs collaboration
-
----
-
-### Extended Trust
-Insurance management platform:
-- Policy obtain
-- Renewals
-- Lifecycle management
-
----
-
-### Decentralized Voting System
-Blockchain Final Year Project:
-- Solidity Smart Contracts
-- Immutable voting records
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **AI Neorez** | AI-powered resume & cover letter generation platform with Chrome extension | React, Node.js, OpenAI |
+| **Tutoring Platform** | Role-based live tutoring platform with WebRTC video, AI whiteboard, and Drive integration | React, Node.js, WebRTC |
+| **Mister AI** | AI platform for resume generation, blog writing, image processing, and quizzes | Next.js, Node.js, OpenAI |
+| **Cool Market** | AI-powered eCommerce with smart search and recommendations | Next.js, Redis, Stripe |
+| **Business That Matters** | SaaS startup platform with AI business plans and Kanban board | MERN, OpenAI |
+| **Extended Trust** | Insurance lifecycle management platform | React, Node.js |
+| **Decentralized Voting System** | Blockchain-based secure voting system | Solidity, React, Node |
 
 ---
 
@@ -164,8 +104,8 @@ Blockchain Final Year Project:
 
 # 🤝 Connect With Me
 
-📧 leaderhammad37@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/raja-hammad-ahsan
+📧 **leaderhammad37@gmail.com**  
+💼 **LinkedIn:** https://linkedin.com/in/raja-hammad-ahsan
 
 ---
 
